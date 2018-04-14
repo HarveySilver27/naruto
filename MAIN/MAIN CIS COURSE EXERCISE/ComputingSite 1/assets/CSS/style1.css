@@ -1,0 +1,141 @@
+/*for all ComputingSite 1,2,3,4(for all webpages)*/
+footer{
+  background-color: #363636;
+}
+footer>p{
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+#ig{
+  width: 10%;
+  float:left;
+  max-width: 170px;
+  padding-top: 20px;
+  padding-left: 5px;
+}
+  #fb{
+  width: 13%;
+  float: left;
+  max-width: 215px;
+  padding-top: 17px;
+  }
+
+  #twitter{
+  width: 10%;
+  float: none;
+  max-width: 200px;
+  padding-top: 25px;
+  }
+  body{
+    max-width:960px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #000000;
+  }
+  nav>ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+ header{
+   background-color: #000000;
+ }
+ header h1{
+   color: #ffffff;
+ }
+  nav>ul>li{
+    float: right;
+    background-color: #ff9900;
+  }
+  section{
+    background-color: #FFCC80;
+  }
+  main{
+    background-color: #000000;
+  }
+  nav>ul>li a {
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 10px 30px;
+    text-decoration: none
+  }
+  li a:hover {
+    color: #FFCC80;
+  }
+  #mom {
+    width: 600px;
+    height: 300px;
+  }
+    #PIC5
+  {
+    width: 300px;
+  }
+  #news{
+    background-color: #663d00;
+ }
+    aside p,h3,h4{
+      color: white;
+    }
+    aside p,h3,h4{
+      margin: 0;
+    }
+    aside h3{
+      padding-top: 10px;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    aside h4{
+      padding-top: 20px;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    aside p{
+      padding-bottom: 20px;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    aside {
+      padding-right: 0px !important;
+      margin-top: -5px !important;
+    }
+    main{
+      padding-right: 0px !important;
+    }
+    h1 {
+      font-size: 26px;
+    }
+    h2 {
+      font-size: 19px;
+    }
+    h3 {
+      font-size: 18px;
+    }
+    h4 {
+      font-size: 14px;
+    }
+    p {
+      font-size: 13px;
+    }
+    a {
+      font-size: 13px;
+    }
+
+
+
+    /*for ComputingSite 1(homepage)*/
+    #able{
+      width: 600px;
+      height: 300px;
+    }
+    #fun{
+      width: 600px;
+      height: 300px;
+    }
+    #mom {
+      width: 600px;
+      height: 300px;
+    }
